@@ -1,2 +1,2 @@
 # Eli Heuman GitHub
-<a herf= "eliheuman.github.io/howtogithub.github.io"> Howtogithub Exercise </a>
+<a herf= "http://eliheuman.github.io/howtogithub.github.io"> How to on github Exercise </a>
